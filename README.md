@@ -1,2 +1,2 @@
-# alta-engine
+# Alta Engine
 WIP
